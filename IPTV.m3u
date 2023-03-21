@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KABCDT1.us" status="online",ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTINF:-1 tvg-id="KABCDT1.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KABC.png" status="online",ABC 7 Los Angeles CA (KABC-TV) (720p)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" status="online",CBSN Los Angeles CA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBSN Los Angeles CA (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" status="online",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
-#EXTINF:-1 tvg-id="PBSWest.us" status="online",PBS National West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/PBS_logo.svg.png" status="online",PBS National West (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="LACityView35.us" status="online",LA CityView 35 (1080p)
+#EXTINF:-1 tvg-id="LACityView35.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="SCVTV.us" status="online",SCVTV (Santa Clarita CA) (1080p)
+#EXTINF:-1 tvg-id="SCVTV.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA) (1080p)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="LA36.us" status="online",Los Angeles Local Television Channel 36 (1080p)
 https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBayArea.us" status="online",CBSN Bay Area CA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBSN Bay Area CA (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1 tvg-id="KTVUDT1.us" status="online",FOX 2 San Francisco CA (KTVU) (720p)
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KTVU_FOX_2_logo.png" status="online",FOX 2 San Francisco CA (KTVU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
-#EXTINF:-1 tvg-id="CNN.us" status="online",CNN USA (720p)
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" status="online",HLN (720p)
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HLN-logo-2017.png" status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTVWest.us" status="online",truTV West (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="truTVWest.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/1200px-TruTV_2014.svg.png" status="online",truTV West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TCMWest.us" status="online",TCM West (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/TCM_logo.svg.png" status="online",TCM West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" status="online",TCM East (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/TCM_logo.svg.png" status="online",TCM East (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" status="online",TNT West (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TNTWest.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/TNT.png" status="online",TNT West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSWest.us" status="online",TBS West (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/1200px-TBS_logo_2016.svg.png" status="online",TBS West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us" status="online",TBS East (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/1200px-TBS_logo_2016.svg.png" status="online",TBS East (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us" status="online",Pluto TV Buzzr (720p)
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Buzzr_logo.svg.png" status="online",Pluto TV Buzzr (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812bfbe4ced4f7b601b12e6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=540&terminate=false&userId=
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us" status="online",Johnny Carson TV (1080p)
 https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8
