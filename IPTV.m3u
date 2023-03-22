@@ -15,10 +15,12 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 tvg-id="KTVUDT1.us" tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KTVU_FOX_2_logo.png" status="online",FOX 2 San Francisco CA (KTVU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
-#EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 status="online",CNN USA (720p)
+#EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" channel-number=10.2 tvc-guide-stationid=10145 status="online",HLN (720p)
+#EXTINF:-1 tvg-id="HLN.us" channel-number=11 tvc-guide-stationid=10145 status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=12 tvc-guide-stationid=18332 status="online",BBC America (720p)
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="truTVWest.us" channel-number=13 tvc-guide-stationid=24569 status="online",truTV West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TCMEast.us" channel-number=14 tvc-guide-stationid=12852 status="online",TCM East (720p) [Geo-blocked]
@@ -35,5 +37,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b60
 https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" channel-number=18 tvc-guide-stationid=10021 status="online",AMC East (720p)
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=12 tvc-guide-stationid=18332 status="online",BBC America (720p)
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
