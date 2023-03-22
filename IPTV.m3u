@@ -17,11 +17,11 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:-1 tvg-id="KTVUDT1.us" tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KTVU_FOX_2_logo.png" status="online",FOX 2 San Francisco CA (KTVU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
-#EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA (720p)
+#EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" channel-number=11 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HLN-logo-2017.png" status="online",HLN (720p)
+#EXTINF:-1 tvg-id="HLN.us" channel-number=11 tvc-guide-stationid=10145 status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTVWest.us" channel-number=12 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/1200px-TruTV_2014.svg.png" status="online",truTV West (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="truTVWest.us" channel-number=12 tvc-guide-stationid=24569 status="online",truTV West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TCMWest.us" channel-number=13 tvc-guide-stationid=12852 status="online",TCM West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
