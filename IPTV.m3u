@@ -3,9 +3,9 @@
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=5 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBSN Los Angeles CA (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=2  tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=2 tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
-#EXTINF:-1 tvg-id="PBSWest.us" channel-number=9 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/PBS_logo.svg.png" status="online",PBS National West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PBSWest.us" channel-number=9 tvc-guide-stationid=15587 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/PBS_logo.svg.png" status="online",PBS National West (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" tvc-guide-placeholders=1800 channel-number=35 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
