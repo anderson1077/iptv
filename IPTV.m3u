@@ -17,7 +17,7 @@ https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 status="online",CNN USA (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" channel-number=10.1 tvc-guide-stationid=10145 status="online",HLN (720p)
+#EXTINF:-1 tvg-id="HLN.us" channel-number=10.2 tvc-guide-stationid=10145 status="online",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="truTVWest.us" channel-number=12 tvc-guide-stationid=24569 status="online",truTV West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
