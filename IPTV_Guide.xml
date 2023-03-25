@@ -14,4 +14,14 @@
       <value>TV-G</value>
     </rating>
   </programme>
+  <programme start="20230326000000 +0000" stop="20230326010000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 4PM (Repeat)</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E84</episode-num>
+	<previously-shown />
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
 </tv>
