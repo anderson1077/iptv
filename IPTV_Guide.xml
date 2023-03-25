@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="http://www.example.com" source-info-name="Example TV Listings" generator-info-name="ChatGPT-XMLTV" generator-info-url="https://www.openai.com/">
+  <channel xmltv_id="KABCDT1.us" id="example.channel.com">
+    <display-name>Example Channel</display-name>
+    <icon src="http://www.example.com/channel-logo.png" />
+  </channel>
+  <programme start="20230325200000 +0000" stop="20230325210000 +0000" channel="example.channel.com">
+    <title lang="en">4 o'clock News</title>
+    <desc lang="en">A daily news program bringing you the latest headlines and updates from around the world at 4 PM.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+</tv>
