@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="http://www.example.com" source-info-name="Example TV Listings" generator-info-name="ChatGPT-XMLTV" generator-info-url="https://www.openai.com/">
-  <programme start="20230325200000 +0000" stop="20230325210000 +0000" channel="KABCDT1.us">
-    <title lang="en">4 o'clock News</title>
-    <desc lang="en">A daily news program bringing you the latest headlines and updates from around the world at 4 PM.</desc>
+<tv source-info-url="http://www.example.com" source-info-name="Anderson IPTV Listings" generator-info-name="ChatGPT-XMLTV" generator-info-url="https://www.openai.com/">
+  <channel xmltv_id="KABCDT1.us" id="KABCDT1.us">
+    <display-name>ABC 7 Los Angeles CA (KABC-TV)</display-name>
+    <icon src="http://www.example.com/channel-logo.png" />
+  </channel>
+  <programme start="20230325230000 +0000" stop="20230326000000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 4PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
     <category lang="en">News</category>
-    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="onscreen">S2023E84</episode-num>
     <rating system="MPAA">
       <value>TV-G</value>
     </rating>
