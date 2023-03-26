@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KABCDT1.us" channel-number=7 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KABC.png" status="online",ABC 7 Los Angeles CA (KABC-TV)
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=5 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=2 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV)
