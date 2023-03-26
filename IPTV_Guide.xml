@@ -3,25 +3,258 @@
 <tv source-info-url="http://www.example.com" source-info-name="Anderson IPTV Listings" generator-info-name="ChatGPT-XMLTV" generator-info-url="https://www.openai.com/">
   <channel xmltv_id="KABCDT1.us" id="KABCDT1.us">
     <display-name>ABC 7 Los Angeles CA (KABC-TV)</display-name>
-    <icon src="http://www.example.com/channel-logo.png" />
+    <icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KABC.png" />
   </channel>
-  <programme start="20230325230000 +0000" stop="20230326000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
+  <programme start="20230325070000 +0000" stop="20230325080000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 11PM (Repeat)</title>
     <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
     <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E84</episode-num>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325080000 +0000" stop="20230325090000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 11PM (Repeat)</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325090000 +0000" stop="20230325100000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 11PM (Repeat)</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325100000 +0000" stop="20230325110000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 11PM (Repeat)</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325110000 +0000" stop="20230325120000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News 11PM (Repeat)</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325120000 +0000" stop="20230325130000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 5AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325130000 +0000" stop="20230325140000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 6AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325140000 +0000" stop="20230325150000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 6AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325150000 +0000" stop="20230325160000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325160000 +0000" stop="20230325170000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325170000 +0000" stop="20230325180000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325180000 +0000" stop="20230325190000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325190000 +0000" stop="20230325200000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325200000 +0000" stop="20230325210000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325210000 +0000" stop="20230325220000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325220000 +0000" stop="20230325230000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8AM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230325230000 +0000" stop="20230326000000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 4PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20230326000000 +0000" stop="20230326010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM (Repeat)</title>
+    <title lang="en">Eyewitness News Weekend 4PM</title>
     <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
     <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E84</episode-num>
-	<previously-shown />
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326010000 +0000" stop="20230326020000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 4PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326020000 +0000" stop="20230326030000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 4PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326030000 +0000" stop="20230326040000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326040000 +0000" stop="20230326050000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326050000 +0000" stop="20230326053000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 8PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326053000 +0000" stop="20230326060000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 10:30PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326060000 +0000" stop="20230326063500 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 11PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20230326063500 +0000" stop="20230326070000 +0000" channel="KABCDT1.us">
+    <title lang="en">Eyewitness News Weekend 11:35PM</title>
+    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="onscreen">S2023E084</episode-num>
+    <rating system="MPAA">
+      <value>TV-PG</value>
     </rating>
   </programme>
 </tv>
