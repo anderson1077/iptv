@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KABCDT1.us" channel-number=7 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KABC.png" status="online",ABC 7 Los Angeles CA (KABC-TV)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
