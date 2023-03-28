@@ -25,3 +25,5 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us" channel-number=15 tvc-guide-stationid=18510 status="online",TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="WSTM.us" channel-number=16 tvc-guide-stationid=11855 status="online",WSTM Syracuse
+https://list.iptvcat.com/my_list/s/2cc86f669fa7a4303d26234c59da49ac.m3u8
