@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=5 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=2 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV)
+#EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=3 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
-#EXTINF:-1 tvg-id="LACityView35.us" channel-number=35 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="SCVTV.us" channel-number=19 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
-https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-id="LA36.us" channel-number=36 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/LA36.png" status="online",Los Angeles Local Television Channel 36
-https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="CBSNewsBayArea.us" channel-number=34 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",Pluto TV CBSN Bay Area CA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="KTVUDT1.us" channel-number=33 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KTVU_FOX_2_logo.png" status="online",FOX 2 San Francisco CA (KTVU)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
-#EXTINF:-1 tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" channel-number=11 tvc-guide-stationid=10145 status="online",HLN
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=106 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="CNN.us" channel-number=120 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA
+https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="HLN.us" channel-number=121 tvc-guide-stationid=10145 status="online",HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=12 tvc-guide-stationid=18332 status="online",BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="truTVWest.us" channel-number=13 tvc-guide-stationid=24569 status="online",truTV West
+#EXTINF:-1 tvg-id="truTVWest.us" channel-number=125 tvc-guide-stationid=24569 status="online",truTV West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" channel-number=14 tvc-guide-stationid=12852 status="online",TCM East
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=130 tvc-guide-stationid=18332 status="online",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="TCMEast.us" channel-number=131 tvc-guide-stationid=12852 status="online",TCM East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" channel-number=15 tvc-guide-stationid=18510 status="online",TNT West
+#EXTINF:-1 tvg-id="TNTWest.us" channel-number=132 tvc-guide-stationid=18510 status="online",TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBSWest.us" channel-number=133 tvc-guide-stationid=34240 status="online",TBS West (720p) [Geo-blocked]
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="SCVTV.us" channel-number=140 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
+https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-id="LACityView35.us" channel-number=145 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="LA36.us" channel-number=150 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/LA36.png" status="online",Los Angeles Local Television Channel 36
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
