@@ -4,7 +4,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=106 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 tvg-id="CNN.us" channel-number=120 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA
-https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" channel-number=121 tvc-guide-stationid=10145 status="online",HLN
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="truTVWest.us" channel-number=125 tvc-guide-stationid=24569 status="online",truTV West
@@ -16,7 +16,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 #EXTINF:-1 tvg-id="TNTWest.us" channel-number=132 tvc-guide-stationid=18510 status="online",TNT West
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBSWest.us" channel-number=133 tvc-guide-stationid=34240 status="online",TBS West (720p) [Geo-blocked]
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" channel-number=140 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" channel-number=145 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35
