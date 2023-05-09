@@ -4,7 +4,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=106 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 channel-number=108 tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/ABC_News_logo_2021.png" tvg-id="ABCNewsLive1.us",ABC News Live
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="CNN.us" channel-number=120 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA
 https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HLN.us" channel-number=121 tvc-guide-stationid=10145 status="online",HLN
