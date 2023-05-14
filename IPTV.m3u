@@ -5,20 +5,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 channel-number=108 tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/ABC_News_logo_2021.png" tvg-id="ABCNewsLive1.us",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="CNN.us" channel-number=120 tvc-guide-stationid=10142 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/CNN-logo.png" status="online",CNN USA
-https://tve-live-ctl.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HLN.us" channel-number=121 tvc-guide-stationid=10145 status="online",HLN
-https://tve-live-ctl.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTVWest.us" channel-number=125 tvc-guide-stationid=24569 status="online",truTV West
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=130 tvc-guide-stationid=18332 status="online",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="TCMEast.us" channel-number=131 tvc-guide-stationid=12852 status="online",TCM East
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" channel-number=132 tvc-guide-stationid=18510 status="online",TNT West
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSWest.us" channel-number=133 tvc-guide-stationid=34240 status="online",TBS West (720p) [Geo-blocked]
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" channel-number=140 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" channel-number=145 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35
