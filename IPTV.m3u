@@ -13,3 +13,5 @@ https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="LA36.us" channel-number=150 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/LA36.png" status="online",Los Angeles Local Television Channel 36
 https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-ID="cnn.us" tvg-id="CNN.us" channel-number=10 tvc-guide-stationid=10142 status="online",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
