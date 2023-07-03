@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KTTVDT1.us" channel-number=3 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/Fts-los-angeles-a.svg.png" status="online",FOX 11 Los Angeles CA (KTTV)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=106 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1 channel-number=108 tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/ABC_News_logo_2021.png" tvg-id="ABCNewsLive1.us",ABC News Live
