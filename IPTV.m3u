@@ -21,5 +21,5 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" channel-number=151,NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 channel-number=10000,Happy Hound Little Hound Town
+#EXTINF:-1 tvc-guide-placeholders=7200 channel-number=10000,Happy Hound Little Hound Town
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-4.m3u8
