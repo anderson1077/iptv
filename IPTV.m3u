@@ -9,7 +9,7 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-ID="hln.us" tvg-id="HLN.us" channel-number=122 tvc-guide-stationid=5452 status="online",HLN USA
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-ID="tcm.us" tvg-id="TCM.us" channel-number=400 tvc-guide-stationid=76 status="online",TCM USA
+#EXTINF:-1 tvg-ID="tcm.us" tvg-id="TCM.us" channel-number=401 tvc-guide-stationid=76 status="online",TCM USA
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-ID="twc.us" tvg-id="TWC.us" channel-number=130 tvc-guide-stationid=904049 status="online",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
