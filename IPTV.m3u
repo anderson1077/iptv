@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" channel-number=106 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/cbsn-logo-vector.png" status="online",CBS News Los Angeles
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 channel-number=108 tvc-guide-placeholders=1800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/ABC_News_logo_2021.png" tvg-id="ABCNewsLive1.us",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" channel-number=130 tvc-guide-stationid=18332 status="online",BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" channel-number=140 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" channel-number=145 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/lacityview.png" status="online",LA CityView 35
@@ -15,11 +9,11 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-ID="hln.us" tvg-id="HLN.us" channel-number=122 tvc-guide-stationid=5452 status="online",HLN USA
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-ID="tcm.us" tvg-id="TCM.us" channel-number=123 tvc-guide-stationid=76 status="online",TCM USA
+#EXTINF:-1 tvg-ID="tcm.us" tvg-id="TCM.us" channel-number=500 tvc-guide-stationid=76 status="online",TCM USA
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-ID="twc.us" tvg-id="TWC.us" channel-number=129 tvc-guide-stationid=904049 status="online",The Weather Channel
+#EXTINF:-1 tvg-ID="twc.us" tvg-id="TWC.us" channel-number=130 tvc-guide-stationid=904049 status="online",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" channel-number=151,NHK World Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" channel-number=135,NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=1,Happy Hound
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=10000,Happy Hound
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-4.m3u8
