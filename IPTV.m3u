@@ -16,4 +16,4 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=10000,Happy Hound
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-4.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" channel-number=121,BBC News (1080p) 
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
