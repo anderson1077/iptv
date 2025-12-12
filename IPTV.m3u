@@ -27,9 +27,9 @@ https://video14.abckam.com:443/LiveApp/streams/happyhoundca-2.m3u8
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-3.m3u8
 #EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9990,Middle Sun Deck
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-6.m3u8
-#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9991,Lounge
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9991,Lounge Around
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-7.m3u8
-#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9992,Lounge Sun Deck
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9992,Lounge Around Sun Deck
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-9.m3u8
 #EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9993,Middle Hound Town
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-8.m3u8
