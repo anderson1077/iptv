@@ -19,3 +19,27 @@ https://video14.abckam.com:443/LiveApp/streams/happyhoundca-5.m3u8
 https://video14.abckam.com:443/LiveApp/streams/happyhoundca-4.m3u8
 #EXTINF:-1 tvg-ID="TBSWest.us" tvg-id="TBSWest.us" channel-number=125 tvc-guide-stationid=470377 status="online",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9987,Big Hound Town Sun Deck
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-1.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9988,Big Hound Town
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-2.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9989,Puppy Park
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-3.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9990,Middle Sun Deck
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-6.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9991,Lounge
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-7.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9992,Lounge Sun Deck
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-9.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9993,Middle Hound Town
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-8.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9994,Barks and Rec Nose Cam
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-10.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9995,Barks and Rec Aerial
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-11.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9996,Barks and Rec
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-12.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9997,Dog Run 1
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-13.m3u8
+#EXTINF:-1 tvc-guide-placeholders=28800 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/HappyHound.png" channel-number=9998,Dog Run 2
+https://video14.abckam.com:443/LiveApp/streams/happyhoundca-14.m3u8
