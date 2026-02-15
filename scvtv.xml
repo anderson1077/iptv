@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="scvtv_schedule_to_xmltv.py">
+  <channel id="140">
+    <display-name>SCVTV</display-name>
+  </channel>
+  <programme start="20260214000000 -0800" stop="20260214003000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin: Kent Kresa Space Gallery &amp; LA On Wheels</title>
+  </programme>
+  <programme start="20260214003000 -0800" stop="20260214010000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214010000 -0800" stop="20260214013000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214013000 -0800" stop="20260214020000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214020000 -0800" stop="20260214023000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia EP 74</title>
+  </programme>
+  <programme start="20260214023000 -0800" stop="20260214030000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214030000 -0800" stop="20260214033000 -0800" channel="140">
+    <title lang="en">Beyond A Dream Episode 13</title>
+  </programme>
+  <programme start="20260214033000 -0800" stop="20260214040000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Eddie De La Fe &amp; Gordon Halligan</title>
+  </programme>
+  <programme start="20260214040000 -0800" stop="20260214050000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Bear Came Along</title>
+  </programme>
+  <programme start="20260214050000 -0800" stop="20260214060000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Dr. Suess - Clam I Am</title>
+  </programme>
+  <programme start="20260214060000 -0800" stop="20260214070000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read Aloud: Secrets of the Seashore</title>
+  </programme>
+  <programme start="20260214070000 -0800" stop="20260214080000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Kai's Journey, Angel Island</title>
+  </programme>
+  <programme start="20260214080000 -0800" stop="20260214090000 -0800" channel="140">
+    <title lang="en">SCVTV's Community Corner: Episode 701</title>
+  </programme>
+  <programme start="20260214090000 -0800" stop="20260214100100 -0800" channel="140">
+    <title lang="en">SP Railroad Men Back at Saugus Station After 50+ Years</title>
+  </programme>
+  <programme start="20260214100100 -0800" stop="20260214103000 -0800" channel="140">
+    <title lang="en">Legacy: Veluzats Rebuild Autry's Historic Melody Ranch Studio</title>
+  </programme>
+  <programme start="20260214103000 -0800" stop="20260214110000 -0800" channel="140">
+    <title lang="en">Legacy: Tales of the Newhall Court with Judge Adrian Adams</title>
+  </programme>
+  <programme start="20260214110000 -0800" stop="20260214113000 -0800" channel="140">
+    <title lang="en">Legacy: Acton '49er Days with Jo Anne Darcy</title>
+  </programme>
+  <programme start="20260214113000 -0800" stop="20260214120000 -0800" channel="140">
+    <title lang="en">Legacy: An Anthropological Look at the SCV's First People</title>
+  </programme>
+  <programme start="20260214120000 -0800" stop="20260214123000 -0800" channel="140">
+    <title lang="en">Points of Interest: Saugus Cafe</title>
+  </programme>
+  <programme start="20260214123000 -0800" stop="20260214130000 -0800" channel="140">
+    <title lang="en">Points of Interest: Journey Thru The Much Mystified Section</title>
+  </programme>
+  <programme start="20260214130000 -0800" stop="20260214133000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214133000 -0800" stop="20260214140000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214140000 -0800" stop="20260214143000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214143000 -0800" stop="20260214150000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214150000 -0800" stop="20260214160000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Taj Jackson</title>
+  </programme>
+  <programme start="20260214160000 -0800" stop="20260214163000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214163000 -0800" stop="20260214170000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214170000 -0800" stop="20260214173400 -0800" channel="140">
+    <title lang="en">SCV 101: Rebecca Mendoza</title>
+  </programme>
+  <programme start="20260214173400 -0800" stop="20260214191500 -0800" channel="140">
+    <title lang="en">SCV 101: Carmen Garcia</title>
+  </programme>
+  <programme start="20260214191500 -0800" stop="20260214193000 -0800" channel="140">
+    <title lang="en">Soundcheck Season 2, Episode 2</title>
+  </programme>
+  <programme start="20260214193000 -0800" stop="20260214200000 -0800" channel="140">
+    <title lang="en">Soundcheck Episode 303</title>
+  </programme>
+  <programme start="20260214200000 -0800" stop="20260214210200 -0800" channel="140">
+    <title lang="en">Santa Clarita Valley Youth Orchestra: Carnival of Animals</title>
+  </programme>
+  <programme start="20260214210200 -0800" stop="20260214213000 -0800" channel="140">
+    <title lang="en">House Blend: Loafers Glory</title>
+  </programme>
+  <programme start="20260214213000 -0800" stop="20260214220000 -0800" channel="140">
+    <title lang="en">House Blend: Johnny Strat</title>
+  </programme>
+  <programme start="20260214220000 -0800" stop="20260215000000 -0800" channel="140">
+    <title lang="en">The GO Jazz Big Band</title>
+  </programme>
+  <programme start="20260215000000 -0800" stop="20260215003000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin: Kent Kresa Space Gallery &amp; LA On Wheels</title>
+  </programme>
+  <programme start="20260215003000 -0800" stop="20260215010000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215010000 -0800" stop="20260215013000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215013000 -0800" stop="20260215020000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215020000 -0800" stop="20260215023000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260215023000 -0800" stop="20260215030000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia EP 75</title>
+  </programme>
+  <programme start="20260215030000 -0800" stop="20260215040000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Timothy Williams and Rev. Latisha Smith</title>
+  </programme>
+  <programme start="20260215040000 -0800" stop="20260215043000 -0800" channel="140">
+    <title lang="en">Meet the Animals of the Barnyard at William S. Hart Park! | Ep 9 | Santa Clarita Voices</title>
+  </programme>
+  <programme start="20260215043000 -0800" stop="20260215050000 -0800" channel="140">
+    <title lang="en">Pro Mountain Bike Rider Spencer Rathkamp | Ep 8 | Santa Clarita Voices</title>
+  </programme>
+  <programme start="20260215050000 -0800" stop="20260215053000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215053000 -0800" stop="20260215060000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215060000 -0800" stop="20260215063000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215063000 -0800" stop="20260215070000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215070000 -0800" stop="20260215073000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215073000 -0800" stop="20260215080000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215080000 -0800" stop="20260215083000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215083000 -0800" stop="20260215090000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215090000 -0800" stop="20260215093000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215093000 -0800" stop="20260215100000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215100000 -0800" stop="20260215103000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215103000 -0800" stop="20260215110000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215110000 -0800" stop="20260215113700 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read Aloud: Secrets of the Seashore</title>
+  </programme>
+  <programme start="20260215113700 -0800" stop="20260215120000 -0800" channel="140">
+    <title lang="en">Growing Pangs: Santa Clarita Valley in the 1980s</title>
+  </programme>
+  <programme start="20260215120000 -0800" stop="20260215130000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Bear Came Along</title>
+  </programme>
+  <programme start="20260215130000 -0800" stop="20260215140000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Kai's Journey, Angel Island</title>
+  </programme>
+  <programme start="20260215140000 -0800" stop="20260215150700 -0800" channel="140">
+    <title lang="en">State Parks: Sutters Fort - Life Long Ago</title>
+  </programme>
+  <programme start="20260215150700 -0800" stop="20260215160000 -0800" channel="140">
+    <title lang="en">State Parks Angel Island, Immigration of California</title>
+  </programme>
+  <programme start="20260215160000 -0800" stop="20260215170100 -0800" channel="140">
+    <title lang="en">State Parks: Marine Conservation Careers</title>
+  </programme>
+  <programme start="20260215170100 -0800" stop="20260215180000 -0800" channel="140">
+    <title lang="en">Redwoods Sumeg Village</title>
+  </programme>
+  <programme start="20260215180000 -0800" stop="20260215190000 -0800" channel="140">
+    <title lang="en">SCVTV's Community Corner: Episode 701</title>
+  </programme>
+  <programme start="20260215190000 -0800" stop="20260215200000 -0800" channel="140">
+    <title lang="en">River of Lights 2025</title>
+  </programme>
+  <programme start="20260215200000 -0800" stop="20260215203400 -0800" channel="140">
+    <title lang="en">SCV 101: Rebecca Mendoza</title>
+  </programme>
+  <programme start="20260215203400 -0800" stop="20260215210000 -0800" channel="140">
+    <title lang="en">SCV 101: Carmen Garcia</title>
+  </programme>
+  <programme start="20260215210000 -0800" stop="20260215213000 -0800" channel="140">
+    <title lang="en">SCV 101: Candy Straight</title>
+  </programme>
+  <programme start="20260215213000 -0800" stop="20260215220000 -0800" channel="140">
+    <title lang="en">SCV 101: Naomi Young</title>
+  </programme>
+  <programme start="20260215220000 -0800" stop="20260215223200 -0800" channel="140">
+    <title lang="en">SCV 101: Elisabeth White &amp; Jimmy Lifton</title>
+  </programme>
+  <programme start="20260215223200 -0800" stop="20260215230000 -0800" channel="140">
+    <title lang="en">SCV 101: Julio Lemos</title>
+  </programme>
+  <programme start="20260215230000 -0800" stop="20260215233000 -0800" channel="140">
+    <title lang="en">SCV 101: Carlos &amp; Megan Aguilar</title>
+  </programme>
+  <programme start="20260215233000 -0800" stop="20260216000000 -0800" channel="140">
+    <title lang="en">SCV 101: Allen Gittelson</title>
+  </programme>
+</tv>
