@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SCVTV.us" channel-number=140 tvc-guide-placeholders=3600 tvg-logo="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/SCVTV-Logo.png" status="online",SCVTV (Santa Clarita CA)
+https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
