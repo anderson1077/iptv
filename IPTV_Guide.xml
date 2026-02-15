@@ -1,2052 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="http://www.example.com" source-info-name="Anderson IPTV Listings" generator-info-name="ChatGPT-XMLTV" generator-info-url="https://www.openai.com/">
-  <channel xmltv_id="KABCDT1.us" id="KABCDT1.us">
-    <display-name>ABC 7 Los Angeles CA (KABC-TV)</display-name>
-    <icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/KABC.png" />
+<tv generator-info-name="scvtv_schedule_to_xmltv.py">
+  <channel id="140">
+    <display-name>SCVTV</display-name>
   </channel>
-  <programme start="20230327070000 +0000" stop="20230327080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327080000 +0000" stop="20230327090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327090000 +0000" stop="20230327100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327100000 +0000" stop="20230327110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327110000 +0000" stop="20230327113000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327113000 +0000" stop="20230327120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4:30AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327120000 +0000" stop="20230327130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327130000 +0000" stop="20230327140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327140000 +0000" stop="20230327150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327150000 +0000" stop="20230327160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327160000 +0000" stop="20230327170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327170000 +0000" stop="20230327180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327180000 +0000" stop="20230327190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327190000 +0000" stop="20230327200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327200000 +0000" stop="20230327210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327210000 +0000" stop="20230327220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327220000 +0000" stop="20230327223000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327223000 +0000" stop="20230327230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230327230000 +0000" stop="20230328000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328000000 +0000" stop="20230328010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328010000 +0000" stop="20230328013000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328013000 +0000" stop="20230328020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328020000 +0000" stop="20230328030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328030000 +0000" stop="20230328040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328040000 +0000" stop="20230328050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328050000 +0000" stop="20230328060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328060000 +0000" stop="20230328063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328063500 +0000" stop="20230328070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E086</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230328070000 +0000" stop="20230328080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328080000 +0000" stop="20230328090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328090000 +0000" stop="20230328100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328100000 +0000" stop="20230328110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328110000 +0000" stop="20230328113000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328113000 +0000" stop="20230328120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4:30AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328120000 +0000" stop="20230328130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328130000 +0000" stop="20230328140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328140000 +0000" stop="20230328150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328150000 +0000" stop="20230328160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328160000 +0000" stop="20230328170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328170000 +0000" stop="20230328180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328180000 +0000" stop="20230328190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328190000 +0000" stop="20230328200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328200000 +0000" stop="20230328210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328210000 +0000" stop="20230328220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328220000 +0000" stop="20230328223000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328223000 +0000" stop="20230328230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230328230000 +0000" stop="20230329000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329000000 +0000" stop="20230329010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329010000 +0000" stop="20230329013000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329013000 +0000" stop="20230329020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329020000 +0000" stop="20230329030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329030000 +0000" stop="20230329040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329040000 +0000" stop="20230329050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329050000 +0000" stop="20230329060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329060000 +0000" stop="20230329063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329063500 +0000" stop="20230329070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230329070000 +0000" stop="20230329080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329080000 +0000" stop="20230329090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329090000 +0000" stop="20230329100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329100000 +0000" stop="20230329110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329110000 +0000" stop="20230329113000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329113000 +0000" stop="20230329120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4:30AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329120000 +0000" stop="20230329130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329130000 +0000" stop="20230329140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329140000 +0000" stop="20230329150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329150000 +0000" stop="20230329160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329160000 +0000" stop="20230329170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329170000 +0000" stop="20230329180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329180000 +0000" stop="20230329190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329190000 +0000" stop="20230329200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329200000 +0000" stop="20230329210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329210000 +0000" stop="20230329220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329220000 +0000" stop="20230329223000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329223000 +0000" stop="20230329230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230329230000 +0000" stop="20230330000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330000000 +0000" stop="20230330010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330010000 +0000" stop="20230330013000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330013000 +0000" stop="20230330020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330020000 +0000" stop="20230330030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330030000 +0000" stop="20230330040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330040000 +0000" stop="20230330050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330050000 +0000" stop="20230330060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330060000 +0000" stop="20230330063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330063500 +0000" stop="20230330070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E088</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230330070000 +0000" stop="20230330080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330080000 +0000" stop="20230330090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330090000 +0000" stop="20230330100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330100000 +0000" stop="20230330110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330110000 +0000" stop="20230330113000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330113000 +0000" stop="20230330120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4:30AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330120000 +0000" stop="20230330130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330130000 +0000" stop="20230330140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330140000 +0000" stop="20230330150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330150000 +0000" stop="20230330160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330160000 +0000" stop="20230330170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330170000 +0000" stop="20230330180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330180000 +0000" stop="20230330190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330190000 +0000" stop="20230330200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330200000 +0000" stop="20230330210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330210000 +0000" stop="20230330220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330220000 +0000" stop="20230330223000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330223000 +0000" stop="20230330230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230330230000 +0000" stop="20230331000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331000000 +0000" stop="20230331010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331010000 +0000" stop="20230331013000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331013000 +0000" stop="20230331020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331020000 +0000" stop="20230331030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331030000 +0000" stop="20230331040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331040000 +0000" stop="20230331050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331050000 +0000" stop="20230331060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331060000 +0000" stop="20230331063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331063500 +0000" stop="20230331070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E089</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230331070000 +0000" stop="20230331080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331080000 +0000" stop="20230331090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331090000 +0000" stop="20230331100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331100000 +0000" stop="20230331110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331110000 +0000" stop="20230331113000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331113000 +0000" stop="20230331120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4:30AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331120000 +0000" stop="20230331130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331130000 +0000" stop="20230331140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331140000 +0000" stop="20230331150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331150000 +0000" stop="20230331160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331160000 +0000" stop="20230331170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331170000 +0000" stop="20230331180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331180000 +0000" stop="20230331190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331190000 +0000" stop="20230331200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331200000 +0000" stop="20230331210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331210000 +0000" stop="20230331220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331220000 +0000" stop="20230331223000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331223000 +0000" stop="20230331230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 3PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230331230000 +0000" stop="20230401000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401000000 +0000" stop="20230401010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401010000 +0000" stop="20230401013000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401013000 +0000" stop="20230401020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401020000 +0000" stop="20230401030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401030000 +0000" stop="20230401040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401040000 +0000" stop="20230401050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401050000 +0000" stop="20230401060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 6PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401060000 +0000" stop="20230401063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401063500 +0000" stop="20230401070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E090</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230401070000 +0000" stop="20230401080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat -Eyewitness News 11PM </title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401080000 +0000" stop="20230401090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401090000 +0000" stop="20230401100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401100000 +0000" stop="20230401110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401110000 +0000" stop="20230401120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401120000 +0000" stop="20230401130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401130000 +0000" stop="20230401140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401140000 +0000" stop="20230401150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 6AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401150000 +0000" stop="20230401160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401160000 +0000" stop="20230401170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401170000 +0000" stop="20230401180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401180000 +0000" stop="20230401190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401190000 +0000" stop="20230401200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401200000 +0000" stop="20230401210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401210000 +0000" stop="20230401220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401220000 +0000" stop="20230401230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230401230000 +0000" stop="20230402000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402000000 +0000" stop="20230402010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402010000 +0000" stop="20230402020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402020000 +0000" stop="20230402030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 4PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402030000 +0000" stop="20230402040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 8PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402040000 +0000" stop="20230402050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402050000 +0000" stop="20230402053000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 8PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402053000 +0000" stop="20230402060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 10:30PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402060000 +0000" stop="20230402063500 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402063500 +0000" stop="20230402070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend Late Edition</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E091</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
-  <programme start="20230402070000 +0000" stop="20230402080000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402080000 +0000" stop="20230402090000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402090000 +0000" stop="20230402100000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402100000 +0000" stop="20230402110000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402110000 +0000" stop="20230402120000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402120000 +0000" stop="20230402130000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402130000 +0000" stop="20230402140000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402140000 +0000" stop="20230402150000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 7AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402150000 +0000" stop="20230402160000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat -Eyewitness News Weekend 7AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402160000 +0000" stop="20230402170000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 9AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402170000 +0000" stop="20230402173000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402173000 +0000" stop="20230402180000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402180000 +0000" stop="20230402190000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402190000 +0000" stop="20230402200000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402200000 +0000" stop="20230402210000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402210000 +0000" stop="20230402220000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402220000 +0000" stop="20230402230000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230402230000 +0000" stop="20230403000000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 10AM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403000000 +0000" stop="20230403010000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403010000 +0000" stop="20230403020000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403020000 +0000" stop="20230403030000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403030000 +0000" stop="20230403040000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403040000 +0000" stop="20230403050000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403050000 +0000" stop="20230403060000 +0000" channel="KABCDT1.us">
-    <title lang="en">Repeat - Eyewitness News Weekend 5PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20230403060000 +0000" stop="20230403070000 +0000" channel="KABCDT1.us">
-    <title lang="en">Eyewitness News Weekend 11PM</title>
-    <desc lang="en">Southern California's Most Trusted News Team delivers Breaking News from across the region and around the world.</desc>
-<icon src="https://raw.githubusercontent.com/anderson1077/iptv/main/ChannelLogos/eyewitness_news.jpg" />
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S2023E092</episode-num>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-    <category lang="en">News</category>
+  <programme start="20260214000000 -0800" stop="20260214003000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin: Kent Kresa Space Gallery &amp; LA On Wheels</title>
+  </programme>
+  <programme start="20260214003000 -0800" stop="20260214010000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214010000 -0800" stop="20260214013000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214013000 -0800" stop="20260214020000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214020000 -0800" stop="20260214023000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia EP 74</title>
+  </programme>
+  <programme start="20260214023000 -0800" stop="20260214030000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214030000 -0800" stop="20260214033000 -0800" channel="140">
+    <title lang="en">Beyond A Dream Episode 13</title>
+  </programme>
+  <programme start="20260214033000 -0800" stop="20260214040000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Eddie De La Fe &amp; Gordon Halligan</title>
+  </programme>
+  <programme start="20260214040000 -0800" stop="20260214050000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Bear Came Along</title>
+  </programme>
+  <programme start="20260214050000 -0800" stop="20260214060000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Dr. Suess - Clam I Am</title>
+  </programme>
+  <programme start="20260214060000 -0800" stop="20260214070000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read Aloud: Secrets of the Seashore</title>
+  </programme>
+  <programme start="20260214070000 -0800" stop="20260214080000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Kai's Journey, Angel Island</title>
+  </programme>
+  <programme start="20260214080000 -0800" stop="20260214090000 -0800" channel="140">
+    <title lang="en">SCVTV's Community Corner: Episode 701</title>
+  </programme>
+  <programme start="20260214090000 -0800" stop="20260214100100 -0800" channel="140">
+    <title lang="en">SP Railroad Men Back at Saugus Station After 50+ Years</title>
+  </programme>
+  <programme start="20260214100100 -0800" stop="20260214103000 -0800" channel="140">
+    <title lang="en">Legacy: Veluzats Rebuild Autry's Historic Melody Ranch Studio</title>
+  </programme>
+  <programme start="20260214103000 -0800" stop="20260214110000 -0800" channel="140">
+    <title lang="en">Legacy: Tales of the Newhall Court with Judge Adrian Adams</title>
+  </programme>
+  <programme start="20260214110000 -0800" stop="20260214113000 -0800" channel="140">
+    <title lang="en">Legacy: Acton '49er Days with Jo Anne Darcy</title>
+  </programme>
+  <programme start="20260214113000 -0800" stop="20260214120000 -0800" channel="140">
+    <title lang="en">Legacy: An Anthropological Look at the SCV's First People</title>
+  </programme>
+  <programme start="20260214120000 -0800" stop="20260214123000 -0800" channel="140">
+    <title lang="en">Points of Interest: Saugus Cafe</title>
+  </programme>
+  <programme start="20260214123000 -0800" stop="20260214130000 -0800" channel="140">
+    <title lang="en">Points of Interest: Journey Thru The Much Mystified Section</title>
+  </programme>
+  <programme start="20260214130000 -0800" stop="20260214133000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214133000 -0800" stop="20260214140000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214140000 -0800" stop="20260214143000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214143000 -0800" stop="20260214150000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260214150000 -0800" stop="20260214160000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Taj Jackson</title>
+  </programme>
+  <programme start="20260214160000 -0800" stop="20260214163000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214163000 -0800" stop="20260214170000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260214170000 -0800" stop="20260214173400 -0800" channel="140">
+    <title lang="en">SCV 101: Rebecca Mendoza</title>
+  </programme>
+  <programme start="20260214173400 -0800" stop="20260214191500 -0800" channel="140">
+    <title lang="en">SCV 101: Carmen Garcia</title>
+  </programme>
+  <programme start="20260214191500 -0800" stop="20260214193000 -0800" channel="140">
+    <title lang="en">Soundcheck Season 2, Episode 2</title>
+  </programme>
+  <programme start="20260214193000 -0800" stop="20260214200000 -0800" channel="140">
+    <title lang="en">Soundcheck Episode 303</title>
+  </programme>
+  <programme start="20260214200000 -0800" stop="20260214210200 -0800" channel="140">
+    <title lang="en">Santa Clarita Valley Youth Orchestra: Carnival of Animals</title>
+  </programme>
+  <programme start="20260214210200 -0800" stop="20260214213000 -0800" channel="140">
+    <title lang="en">House Blend: Loafers Glory</title>
+  </programme>
+  <programme start="20260214213000 -0800" stop="20260214220000 -0800" channel="140">
+    <title lang="en">House Blend: Johnny Strat</title>
+  </programme>
+  <programme start="20260214220000 -0800" stop="20260215000000 -0800" channel="140">
+    <title lang="en">The GO Jazz Big Band</title>
+  </programme>
+  <programme start="20260215000000 -0800" stop="20260215003000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin: Kent Kresa Space Gallery &amp; LA On Wheels</title>
+  </programme>
+  <programme start="20260215003000 -0800" stop="20260215010000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215010000 -0800" stop="20260215013000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215013000 -0800" stop="20260215020000 -0800" channel="140">
+    <title lang="en">Out &amp; About with Roger Martin</title>
+  </programme>
+  <programme start="20260215020000 -0800" stop="20260215023000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia</title>
+  </programme>
+  <programme start="20260215023000 -0800" stop="20260215030000 -0800" channel="140">
+    <title lang="en">Talkin' with Felicia EP 75</title>
+  </programme>
+  <programme start="20260215030000 -0800" stop="20260215040000 -0800" channel="140">
+    <title lang="en">Beyond a Dream: Timothy Williams and Rev. Latisha Smith</title>
+  </programme>
+  <programme start="20260215040000 -0800" stop="20260215043000 -0800" channel="140">
+    <title lang="en">Meet the Animals of the Barnyard at William S. Hart Park! | Ep 9 | Santa Clarita Voices</title>
+  </programme>
+  <programme start="20260215043000 -0800" stop="20260215050000 -0800" channel="140">
+    <title lang="en">Pro Mountain Bike Rider Spencer Rathkamp | Ep 8 | Santa Clarita Voices</title>
+  </programme>
+  <programme start="20260215050000 -0800" stop="20260215053000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215053000 -0800" stop="20260215060000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215060000 -0800" stop="20260215063000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215063000 -0800" stop="20260215070000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215070000 -0800" stop="20260215073000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215073000 -0800" stop="20260215080000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215080000 -0800" stop="20260215083000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215083000 -0800" stop="20260215090000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215090000 -0800" stop="20260215093000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215093000 -0800" stop="20260215100000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215100000 -0800" stop="20260215103000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215103000 -0800" stop="20260215110000 -0800" channel="140">
+    <title lang="en">Santa Clarita Christian Fellowship</title>
+  </programme>
+  <programme start="20260215110000 -0800" stop="20260215113700 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read Aloud: Secrets of the Seashore</title>
+  </programme>
+  <programme start="20260215113700 -0800" stop="20260215120000 -0800" channel="140">
+    <title lang="en">Growing Pangs: Santa Clarita Valley in the 1980s</title>
+  </programme>
+  <programme start="20260215120000 -0800" stop="20260215130000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Bear Came Along</title>
+  </programme>
+  <programme start="20260215130000 -0800" stop="20260215140000 -0800" channel="140">
+    <title lang="en">Cal. St. Parks Read-Aloud: Kai's Journey, Angel Island</title>
+  </programme>
+  <programme start="20260215140000 -0800" stop="20260215150700 -0800" channel="140">
+    <title lang="en">State Parks: Sutters Fort - Life Long Ago</title>
+  </programme>
+  <programme start="20260215150700 -0800" stop="20260215160000 -0800" channel="140">
+    <title lang="en">State Parks Angel Island, Immigration of California</title>
+  </programme>
+  <programme start="20260215160000 -0800" stop="20260215170100 -0800" channel="140">
+    <title lang="en">State Parks: Marine Conservation Careers</title>
+  </programme>
+  <programme start="20260215170100 -0800" stop="20260215180000 -0800" channel="140">
+    <title lang="en">Redwoods Sumeg Village</title>
+  </programme>
+  <programme start="20260215180000 -0800" stop="20260215190000 -0800" channel="140">
+    <title lang="en">SCVTV's Community Corner: Episode 701</title>
+  </programme>
+  <programme start="20260215190000 -0800" stop="20260215200000 -0800" channel="140">
+    <title lang="en">River of Lights 2025</title>
+  </programme>
+  <programme start="20260215200000 -0800" stop="20260215203400 -0800" channel="140">
+    <title lang="en">SCV 101: Rebecca Mendoza</title>
+  </programme>
+  <programme start="20260215203400 -0800" stop="20260215210000 -0800" channel="140">
+    <title lang="en">SCV 101: Carmen Garcia</title>
+  </programme>
+  <programme start="20260215210000 -0800" stop="20260215213000 -0800" channel="140">
+    <title lang="en">SCV 101: Candy Straight</title>
+  </programme>
+  <programme start="20260215213000 -0800" stop="20260215220000 -0800" channel="140">
+    <title lang="en">SCV 101: Naomi Young</title>
+  </programme>
+  <programme start="20260215220000 -0800" stop="20260215223200 -0800" channel="140">
+    <title lang="en">SCV 101: Elisabeth White &amp; Jimmy Lifton</title>
+  </programme>
+  <programme start="20260215223200 -0800" stop="20260215230000 -0800" channel="140">
+    <title lang="en">SCV 101: Julio Lemos</title>
+  </programme>
+  <programme start="20260215230000 -0800" stop="20260215233000 -0800" channel="140">
+    <title lang="en">SCV 101: Carlos &amp; Megan Aguilar</title>
+  </programme>
+  <programme start="20260215233000 -0800" stop="20260216000000 -0800" channel="140">
+    <title lang="en">SCV 101: Allen Gittelson</title>
+  </programme>
 </tv>
